@@ -1,10 +1,10 @@
 # Pacman Gang
 
 ## Pacman
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Pacman_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Pacman_Front.png" width="25%">
 
 ### Build List Items
-| Ref | Value | Marking Color |
+| Ref | Value | Marking Color | 
 | D1, D2 | Yellow LED | Brown |
 | R1 | 150 | Red |
 
@@ -15,8 +15,8 @@
 4. [OPTIONAL] Apply hot glue to difuse light
 
 ## Ghosts
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Ghost_Front.png">
-All Ghosts images are simular, but different
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Ghost_Front.png" width="25%">
+*All Ghosts* images are simular, but different
 
 ### Blinky Build List Items
 | Ref | Value | Marking Color |
