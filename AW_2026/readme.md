@@ -6,6 +6,7 @@ This sections contains the instructions for all of Arctic Wolf's badges.  See ea
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | C1 | 0.01uF | Black |
 | C2 | 10uF | Blue |
 | D1, D2 | Blue LED | Blue |
@@ -28,6 +29,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1 | Red LED | Red |
 | D2 | Blue LED | Blue |
 | R1 | 100 | Purple |
@@ -45,6 +47,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | White LED | Yellow |
 | R1 | 20 | Brown |
 
