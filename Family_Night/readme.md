@@ -1,7 +1,7 @@
 # Family Night (Kid's Badges)
 
 ## Burnie the Phoenix
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Burnie_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Burnie_Front.png" width="25%">
 By: ERE
 
 ### Build List Items
@@ -17,7 +17,7 @@ By: ERE
 3. [OPTIONAL] Apply hot glue to difuse light
 
 ## Foxie
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Foxie_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Foxie_Front.png" width="25%">
 By: ADE
 
 ### Build List Items
