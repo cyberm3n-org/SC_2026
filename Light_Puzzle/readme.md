@@ -3,6 +3,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | C1 | 10uF | Blue |
 | C2 | 100nF | Red |
 | D1 - D9 | RGB LEDs | |

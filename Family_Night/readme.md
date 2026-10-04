@@ -6,6 +6,7 @@ By: ERE
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1 | Orange LED | Orange |
 | D2, D3 | Red LED | Red |
 | R1 | 100 | Purple |
@@ -22,6 +23,7 @@ By: ADE
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1 | Orange LED | Orange |
 | D2, D3 | White LED | Yellow |
 | R1 | 100 | Purple |

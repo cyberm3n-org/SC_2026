@@ -1,8 +1,9 @@
 # Red Light, Green Light
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/StopGo_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/StopGo_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D3 | Red LED | |
 | D2, D4 | Green LED |  |
 | R1, R3 | 100 | Purple |

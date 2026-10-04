@@ -4,7 +4,8 @@
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Pacman_Front.png" width="25%">
 
 ### Build List Items
-| Ref | Value | Marking Color | 
+| Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Yellow LED | Brown |
 | R1 | 150 | Red |
 
@@ -20,21 +21,25 @@
 
 ### Blinky Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Red LED | Red |
 | R1 | 150 | Red |
 
 ### Inky Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Blue LED | Blue |
 | R1 | 20 | Brown |
 
 ### Clyde Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Orange LED | Orange |
 | R1 | 150 | Red |
 
 ### Pinky Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Pink LED | Pink |
 | R1 | 150 | Red |
 

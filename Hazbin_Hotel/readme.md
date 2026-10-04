@@ -3,6 +3,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1 - D10 | Red LED | Red |
 | R1 | 1K | Red |
 

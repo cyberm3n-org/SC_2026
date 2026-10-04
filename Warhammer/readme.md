@@ -5,6 +5,7 @@ By/For: epe
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | Red LED | Red |
 | R1 | 150 | Red |
 

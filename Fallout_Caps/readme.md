@@ -5,6 +5,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | White LED | Yellow |
 | R1 | 30 | Orange |
 
@@ -18,6 +19,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | White LED | Yellow |
 | D3 | RED LED | Red |
 | R1 | 30 | Orange |
@@ -34,6 +36,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2 | White LED | Yellow |
 | D3, D4 | Blue LED | Blue |
 | R1, R2 | 30 | Orange |

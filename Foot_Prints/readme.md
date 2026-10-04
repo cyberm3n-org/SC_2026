@@ -3,6 +3,7 @@
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | C1 | 0.01uF | Black |
 | C2 | 10uF | Blue |
 | D1 - D5 | White LED | Yellow |

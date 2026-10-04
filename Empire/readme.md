@@ -4,6 +4,7 @@ By/For: eggman85
 
 ### Build List Items
 | Ref | Value | Marking Color |
+| --- | --- | --- |
 | D1, D2, D3, D4 | White LED | Yellow |
 | R1, R2 | 20 | Brown |
 
