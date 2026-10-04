@@ -1,5 +1,5 @@
 # Running in Circles (Foot Prints)
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/RuninPlace_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/RunInplace_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
