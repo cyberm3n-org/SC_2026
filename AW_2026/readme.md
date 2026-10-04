@@ -2,7 +2,7 @@
 This sections contains the instructions for all of Arctic Wolf's badges.  See each section for specific details.
 
 ## Main Badge
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/AW26_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/AW26_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
@@ -24,7 +24,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 4. [OPTIONAL] Apply hot glue to difuse light
 
 ## Bug Hunter
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Bug26_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Bug26_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
@@ -40,8 +40,8 @@ Use your best judgement for best order of operation, as this will help in the "e
 4. [OPTIONAL] Apply hot glue to difuse light
 
 ## Targeted Attack & Data Shield
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Attacker26_Front.png">
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Protect26_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Attacker26_Front.png" width="25%">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Protect26_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
