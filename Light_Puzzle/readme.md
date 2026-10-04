@@ -1,5 +1,5 @@
 # One Side of Light Puzzle Cube
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/ColorCube26_Front.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/ColorCube26_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
