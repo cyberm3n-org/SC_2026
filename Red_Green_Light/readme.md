@@ -1,5 +1,5 @@
 # Red Light, Green Light
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/StopGo_Front.png" width="25%">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/StopnGo_Front.png" width="25%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
