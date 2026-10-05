@@ -1,5 +1,5 @@
 # The Empire 
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/empire.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Empire_Front.png" width="25%">
 By/For: eggman85
 
 ### Build List Items
