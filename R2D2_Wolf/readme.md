@@ -17,9 +17,9 @@ There are 2 boards that will be stacked.  Each Board is labeled for position and
 Order of operations is extremely important --> Above List order is not necassarily the best order of operations
 
 | Front | Back |
-| --- | --- |
-| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Front.png" width="10%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Back.png" width="10%"> |
-| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Front.png" width="10%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Back.png" width="10%"> |
+| :---: | :---: |
+| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Front.png" width="50%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Back.png" width="50%"> |
+| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Front.png" width="50%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Back.png" width="50%"> |
 
 *Recommend* Starting with the bottom of the Lower Board
 1. Solder the Buzzer into LS1
