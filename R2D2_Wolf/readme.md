@@ -13,7 +13,7 @@
 | SW1 | MEC Switch | |
 
 ### Steps
-There are 2 boards that will be stacked.  Each Board is labeled for position and direction.  
+There are 2 boards that will be stacked.  Each Board is labeled for position and direction is that the full 8 PINs is on the bottom of the badge.  
 Order of operations is extremely important --> Above List order is not necassarily the best order of operations
 
 | Front | Back |
