@@ -15,7 +15,7 @@ By: ERE
 ### Steps
 1. Solder LEDs
 2. Solder Resistor
-3. [OPTIONAL] Apply hot glue to difuse light
+3. [OPTIONAL] Apply hot glue to diffuse light
 
 ## Foxie
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Foxie_Front.png" width="25%">
@@ -32,4 +32,4 @@ By: ADE
 ### Steps
 1. Solder LEDs
 2. Solder Resistor
-3. [OPTIONAL] Apply hot glue to difuse light
+3. [OPTIONAL] Apply hot glue to diffuse light

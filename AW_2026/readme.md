@@ -22,7 +22,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 1. Solder 555 Timer
 2. Solder Capacitors & Resistors
 3. Solder LEDs
-4. [OPTIONAL] Apply hot glue to difuse light
+4. [OPTIONAL] Apply hot glue to diffuse light
 
 ## Bug Hunter
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Bug26_Front.png" width="25%">
@@ -39,7 +39,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 1. Solder LEDs
 2. Solder Resistors
 3. Bridge Jumper to obtain flashing or solid affect
-4. [OPTIONAL] Apply hot glue to difuse light
+4. [OPTIONAL] Apply hot glue to diffuse light
 
 ## Targeted Attack & Data Shield
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Attacker26_Front.png" width="25%">
@@ -55,4 +55,4 @@ Use your best judgement for best order of operation, as this will help in the "e
 1. Solder LEDs
 2. Solder Resistor
 3. Bridge Jumper to obtain flashing or solid affect
-4. [OPTIONAL] Apply hot glue to difuse light
+4. [OPTIONAL] Apply hot glue to diffuse light

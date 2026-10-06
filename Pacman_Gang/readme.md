@@ -13,7 +13,7 @@
 1. Solder LEDs
 2. Solder Resistor
 3. Bridge Jumper to obtain flashing or solid affect
-4. [OPTIONAL] Apply hot glue to difuse light
+4. [OPTIONAL] Apply hot glue to diffuse light
 
 ## Ghosts
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Ghost_Front.png" width="25%">
@@ -47,4 +47,4 @@
 1. Solder LEDs
 2. Solder Resistor
 3. Bridge Jumper to obtain flashing or solid affect
-4. [OPTIONAL] Apply hot glue to difuse light
+4. [OPTIONAL] Apply hot glue to diffuse light

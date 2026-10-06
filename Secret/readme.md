@@ -12,4 +12,4 @@
 ### Steps
 1. Solder LEDs
 2. Solder Resistor
-3. [OPTIONAL] Apply hot glue to difuse light
+3. [OPTIONAL] Apply hot glue to diffuse light

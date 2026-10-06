@@ -10,4 +10,4 @@
 ### Steps
 1. Solder LEDs
 2. Solder R3 Resistor
-3. [OPTIONAL] Apply hot glue to the back side to difuse light
+3. [OPTIONAL] Apply hot glue to the back side to diffuse light

@@ -16,6 +16,11 @@
 There are 2 boards that will be stacked.  Each Board is labeled for position and direction.  
 Order of operations is extremely important --> Above List order is not necassarily the best order of operations
 
+| Front | Back |
+| --- | --- |
+| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Front.png" width="10%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Lower_Back.png" width="10%"> |
+| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Front.png" width="10%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2Wolf_Upper_Back.png" width="10%"> |
+
 *Recommend* Starting with the bottom of the Lower Board
 1. Solder the Buzzer into LS1
 2. Bridge the Jumper to obtain Flashing or Solid LEDs
@@ -28,5 +33,5 @@ Now, on the back of the Upper Board
 6. Solder the Mechanical Switch into place
 7. Place the Upper Board on the the Header PINs, and solder into place
 8. Solder the LEDs into place
-9. [OPTIONAL] Apply hot glue to the back side to difuse light
+9. [OPTIONAL] Apply hot glue to the back side to diffuse light
 10. Install the 3D Printed R2D2 onto the switch

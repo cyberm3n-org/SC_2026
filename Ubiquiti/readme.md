@@ -1,5 +1,5 @@
 # Ubiquiti 
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/ubiquiti.png">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Ubiquiti_Front.png" width="25%">
 By/For: eggman85
 
 ### Build List Items
@@ -11,4 +11,4 @@ By/For: eggman85
 ### Steps
 1. Solder LEDs
 2. Solder Resistor
-3. [OPTIONAL] Apply hot glue to difuse light
+3. [OPTIONAL] Apply hot glue to diffuse light

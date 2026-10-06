@@ -24,4 +24,4 @@ Now Solder the front components
 5. Solder the Timer (U1) into place
 6. Solder the Remaining Resistors
 7. Solder the Capacitors into place
-3. [OPTIONAL] Apply hot glue to the back side to difuse light
+3. [OPTIONAL] Apply hot glue to the back side to diffuse light

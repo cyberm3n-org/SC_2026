@@ -12,7 +12,7 @@
 ### Steps
 1. Solder LEDs
 2. Solder R3 Resistor
-3. [OPTIONAL] Apply hot glue to the back side to difuse light
+3. [OPTIONAL] Apply hot glue to the back side to diffuse light
 
 ## Cherry Nuka Cola
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Cherry26_Front.png" width="25%">
@@ -29,7 +29,7 @@
 
 1. Solder LEDs
 2. Solder R3 Resistor
-3. [OPTIONAL] Apply hot glue to the back side to difuse light
+3. [OPTIONAL] Apply hot glue to the back side to diffuse light
 
 ## Quantum Cola
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/Quantum26_Front.png" width="25%">
@@ -44,4 +44,4 @@
 ### Steps
 1. Solder LEDs
 2. Solder R3 Resistor
-3. [OPTIONAL] Apply hot glue to the back side to difuse light
+3. [OPTIONAL] Apply hot glue to the back side to diffuse light
