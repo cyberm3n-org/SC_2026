@@ -1,5 +1,5 @@
 # R2D2 Wolf Costume 
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2_Top.png" width="25%">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/R2D2_Top.png" width="35%">
 
 ### Build List Items
 | Ref | Value | Marking Color |
