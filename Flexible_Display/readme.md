@@ -2,7 +2,7 @@
 This is the basic instructions for assembling the display kit.
 | Assembled | Preview Powered |
 | :---: | :---: |
-| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_complete.png" width="25%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_powered.png" width="25%"> |
+| <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_complete.png" width="25%"> | <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_powered.png" width="40%"> |
 
 ## Power/Brain Badge
 <img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_main.png" width="25%">
@@ -44,7 +44,7 @@ Use your best judgement for best order of operation, as this will help in the "e
 
 7. Cut the wires to approximately 35MM and strip the ends to approximately 5MM and tin the wire tips
 8. Solder the wires to the expansion boards, creating a chain
-<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_chain.png" width="25%">
+<img src="https://github.com/cyberm3n-org/SC_2026/blob/main/ref_images/fd_chain.png" width="10%">
 
 9. Solder the chain of expansion boards to the main board
 10. Solder the Header PINs to each of the boards
