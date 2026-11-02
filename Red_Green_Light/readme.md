@@ -14,3 +14,4 @@
 2. Solder LEDs
 3. Trim LEDs legs
 4. After Soldering the Header PINs, place PCB into printed cube
+5. [OPTIONAL] If the printed cover comes off too easily, adding a a couple of drops of super glue to the left & right sides will hold the case on the PCB
