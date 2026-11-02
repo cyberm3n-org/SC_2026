@@ -20,3 +20,4 @@ Use your best judgement for best order of operation, as this will help in the "e
 Now on the front of the board
 5. Solder the LEDs, with the ground in the bottom-right corner (LED ground is indicated via the green arrow)
 6. Align the small tabs of the 3D printed cover to the left and right sides, and press the PCB into the housing.
+7. [OPTIONAL] If the printed cover comes off too easily, adding a a couple of drops of super glue to the left & right sides will hold the case on the PCB
