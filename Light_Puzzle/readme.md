@@ -13,10 +13,10 @@
 ### Steps
 Use your best judgement for best order of operation, as this will help in the "ease" of assembly --> List order is not necassarily the best order of operations
 *Recommend* Starting with the back of the board
-1. Solder the ATtiny (U1) into place
+1. Solder the ATtiny (U1) into place; ensure that the dot on the ATtiny and arrow on U1 line up 
 2. Solder Capacitors C1, C2
 3. Solder R1 Resistor
 4. Solder the Header PINs into place (helps hold the PCB stable)
 Now on the front of the board
-5. Solder the LEDs, with the ground in the bottom-right corner
+5. Solder the LEDs, with the ground in the bottom-right corner (LED ground is indicated via the green arrow)
 6. Align the small tabs of the 3D printed cover to the left and right sides, and press the PCB into the housing.
